@@ -158,40 +158,6 @@ credential vault). It is never deleted by the uninstaller.
   shown as a real cloud provider) that can execute real file edits end-to-end
   without any API.
 
----
-
-## What v0.1.2 fixed (vs 0.1.1 / 0.1.0)
-
-- **v0.1.2 — "every task fails with HTTP 413 Request too large"**: added
-  request token budgeting, history/tool-output compaction (pairing-safe),
-  system-prompt shrinking, and adaptive shrink-and-retry on 413/context errors;
-  new *Request token budget* setting. Verified: 81/81 automated tests
-  (8 new budget tests), packaged self-check 10/10.
-- **v0.1.1 — "tasks stop mid-execution, shown as cancelled after 600s"**:
-  task wall-clock default raised 10 min → 60 min with automatic migration of
-  stored old defaults; limit exposed in Settings; wall-clock stops are reported
-  truthfully instead of faking a user cancel.
-- **v0.1.0** — first release: full agent loop, 20 tools, multi-provider
-  gateway, SQLite persistence, permission system, workspace, installer.
-
-See `DEVELOPMENT_STATE.md` for the honest verified/unverified breakdown,
-`SECURITY.md` for the security model, `FEATURES.md` for the full feature
-inventory, and `KNOWN_LIMITATIONS.md` for accepted v0.x limitations (pipe-based
-terminal, PDF/DOCX/XLSX attachments not parsed yet, heuristic project memory).
-
----
-
-## Build from source
-
-Requirements: Windows 10/11 x64, Node.js ≥ 20, pnpm.
-
-```powershell
-pnpm install          # workspaces
-pnpm typecheck        # 11/11 projects
-pnpm test             # 81/81 tests (no external AI APIs required)
-pnpm build            # production build
-pnpm dist             # NSIS installer → apps/desktop/release/
-pnpm app:selfcheck    # packaged self-check, exits 0/1
 pnpm dev              # dev Electron app
 ```
 
