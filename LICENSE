@@ -1,6 +1,6 @@
-# KLYRITHON CODE
-## PROPRIETARY SOFTWARE LICENSE
-### All Rights Reserved
+KLYRITHON CODE
+PROPRIETARY SOFTWARE LICENSE
+ALL RIGHTS RESERVED
 
 Copyright © 2026 TechParthOps. All Rights Reserved.
 
@@ -8,7 +8,7 @@ KLYRITHON CODE ("Software") is proprietary software. Its source code is not publ
 
 This license applies to the KLYRITHON CODE application, compiled executable releases, associated documentation, and original materials distributed by the copyright holder, except for third-party components governed by their own licenses.
 
-### 1. Ownership and Copyright
+1. OWNERSHIP AND COPYRIGHT
 
 The Software and its original components, including its code, architecture, design, interface, branding, and documentation, are protected by applicable intellectual property and copyright laws.
 
@@ -16,7 +16,7 @@ All rights, title, and interest in the original Software remain with the copyrig
 
 Downloading or using the Software does not transfer ownership or intellectual property rights to the user.
 
-### 2. Permitted Use
+2. PERMITTED USE
 
 Subject to this agreement, the copyright holder grants users a limited, non-exclusive, non-transferable, revocable license to:
 
@@ -27,7 +27,7 @@ Subject to this agreement, the copyright holder grants users a limited, non-excl
 
 This license does not grant commercial-use rights.
 
-### 3. Commercial Use
+3. COMMERCIAL USE
 
 Commercial use of KLYRITHON CODE is not permitted under this license.
 
@@ -37,7 +37,7 @@ Commercial-use permissions may be granted separately by the copyright holder thr
 
 The copyright holder reserves the right to introduce commercial licensing, paid editions, subscriptions, enterprise agreements, or other licensing models in the future.
 
-### 4. Restrictions
+4. RESTRICTIONS
 
 Without prior written permission from the copyright holder, users may not:
 
@@ -48,7 +48,7 @@ Without prior written permission from the copyright holder, users may not:
 - Claim ownership of the Software or present it as their own product.
 - Use the Software in violation of applicable laws or third-party rights.
 
-### 5. User-Created Projects
+5. USER-CREATED PROJECTS
 
 Users retain ownership of the original projects, source code, documents, and other materials they independently create using KLYRITHON CODE.
 
@@ -56,7 +56,7 @@ This license does not transfer ownership of user-created work to the copyright h
 
 AI-generated outputs and third-party-generated materials may be subject to separate provider terms, applicable laws, and third-party rights.
 
-### 6. Third-Party Components
+6. THIRD-PARTY COMPONENTS
 
 The Software may contain, bundle, or integrate third-party libraries, frameworks, services, and open-source components.
 
@@ -64,48 +64,47 @@ Those components remain subject to their respective licenses and terms.
 
 Nothing in this agreement overrides or restricts rights granted under applicable third-party licenses.
 
-### 7. Updates and Support
+7. UPDATES AND SUPPORT
 
-The copyright holder may publish updates, patches, new features, or new versions at their discretion.
+The copyright holder may provide updates, patches, new features, or new versions at their discretion.
 
 No guarantee is made regarding continued availability, maintenance, support, or future releases.
 
-### 8. Disclaimer of Warranty
+8. DISCLAIMER OF WARRANTY
 
 THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW.
 
 The copyright holder does not guarantee that the Software will be uninterrupted, error-free, secure, or suitable for every purpose.
 
-### 9. Limitation of Liability
+9. LIMITATION OF LIABILITY
 
 To the maximum extent permitted by applicable law, the copyright holder shall not be liable for indirect, incidental, special, consequential, or punitive damages arising from the use of or inability to use the Software.
 
 Nothing in this agreement excludes liability that cannot legally be excluded.
 
-### 10. Termination
+10. TERMINATION
 
 This license may be terminated if a user materially violates its terms.
 
 Upon termination, the user must cease any use of the Software that is no longer authorized and delete unauthorized copies, subject to applicable law.
 
-### 11. Reservation of Rights
+11. RESERVATION OF RIGHTS
 
 All rights not expressly granted under this agreement are reserved by the copyright holder.
 
 The copyright holder may change the licensing terms for future releases. Such changes do not automatically alter the terms applicable to previously granted licenses.
 
-### 12. Governing Law
+12. GOVERNING LAW
 
 This agreement shall be governed by the applicable laws of India, subject to mandatory legal protections and the jurisdiction of competent courts.
 
-### 13. Acceptance
+13. ACCEPTANCE
 
 By downloading, installing, or using KLYRITHON CODE, the user acknowledges this license, to the extent such acceptance is legally effective.
 
----
+KLYRITHON CODE — PROPRIETARY SOFTWARE
 
-**KLYRITHON CODE — Proprietary Software**
-
-Official Repository: https://github.com/TechParthOps/KLYRITHON-Code
+Official Repository:
+https://github.com/TechParthOps/KLYRITHON-Code
 
 For commercial licensing inquiries or permissions, contact the copyright holder through the official repository.
