@@ -10,7 +10,7 @@ It is a **coding agent, not a chatbot**: every change it claims is backed by
 recorded tool calls, file diffs, and exit codes.
 
 **Current release: v0.1.2** —
-`apps\desktop\release\KLYRITHON-CODE-Setup-0.1.2.exe`
+`KLYRITHON-CODE-Setup-0.1.2.exe`
 
 ## License and Distribution
 
