@@ -12,19 +12,13 @@ recorded tool calls, file diffs, and exit codes.
 **Current release: v0.1.2** —
 `KLYRITHON-CODE-Setup-0.1.2.exe`
 
-## License and Distribution
+## License
 
 KLYRITHON CODE is proprietary software distributed under a custom license.
 
-The official GitHub repository provides compiled executable releases for public download. The application source code is not publicly distributed.
+See the [LICENSE](LICENSE.md) file for complete licensing terms.
 
-Users are permitted to download, install, and use KLYRITHON CODE for personal, educational, research, and commercial purposes, subject to the terms of the included LICENSE.
-
-Redistribution, modification, resale, sublicensing, and reverse engineering are restricted, except where applicable law provides otherwise.
-
-All rights to the original software, branding, and intellectual property are reserved by the copyright holder.
-
-See [LICENSE.md] for complete terms.
+Copyright © 2026 TechParthOps. All Rights Reserved.
 
 ---
 
