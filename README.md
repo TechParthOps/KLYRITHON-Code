@@ -24,7 +24,7 @@ Redistribution, modification, resale, sublicensing, and reverse engineering are 
 
 All rights to the original software, branding, and intellectual property are reserved by the copyright holder.
 
-See [LICENSE] for complete terms.
+See [LICENSE.md] for complete terms.
 
 ---
 
