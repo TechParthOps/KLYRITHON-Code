@@ -10,7 +10,7 @@ It is a **coding agent, not a chatbot**: every change it claims is backed by
 recorded tool calls, file diffs, and exit codes.
 
 **Current release: v0.1.2** —
-`KLYRITHON-CODE-Setup-0.1.2.exe`
+`KLYRITHON-CODE-Setup.exe`
 
 ## License
 
@@ -24,12 +24,9 @@ Copyright © 2026 TechParthOps. All Rights Reserved.
 
 ## Install
 
-1. Run `KLYRITHON-CODE-Setup-0.1.2.exe` (NSIS installer, per-user — no admin
+1. Run `KLYRITHON-CODE-Setup.exe` (NSIS installer, per-user — no admin
    rights needed, no code-signing certificate configured).
-2. Installing over an older version (0.1.0 / 0.1.1) upgrades the app in place
-   and **keeps all your data**: projects, conversations, provider profiles, API
-   keys and settings are never touched by install or uninstall.
-3. Launch **KLYRITHON CODE** from the Start menu or desktop shortcut.
+2. Launch **KLYRITHON CODE** from the Start menu or desktop shortcut.
 
 App data lives in `%APPDATA%\KLYRITHON CODE\` (SQLite database + encrypted
 credential vault). It is never deleted by the uninstaller.
@@ -64,7 +61,7 @@ credential vault). It is never deleted by the uninstaller.
 
 ---
 
-## How it behaves (v0.1.2)
+## How it behaves
 
 ### Task execution engine
 - **Plan → act → verify loop.** For multi-step work the agent first presents a
@@ -80,7 +77,7 @@ credential vault). It is never deleted by the uninstaller.
   is interrupted, completed work is checkpointed and shown as *interrupted* —
   nothing auto-repeats. "Continue the session" resumes from the checkpoint.
 
-### Limits that protect you (and how v0.1.2 improved them)
+### Limits that protect you
 - **Task time limit** — default **60 minutes** per task (v0.1.1 raised this
   from 10 minutes; existing installs are migrated automatically). If the limit
   is reached the task stops *with an explicit reason in the summary* (not a
